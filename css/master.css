@@ -542,7 +542,7 @@ header .links ul li:not(:last-child) a {
 .contact .container .info a {
     text-decoration: none;
     color: var(--main-color, #10CAB7);
-    font-size: 35px;
+    font-size: 28px;
     font-weight: bolder;
 }
 
